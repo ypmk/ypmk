@@ -15,3 +15,25 @@ Backend Developer (Java, Spring) with full-stack experience
 - ✨ Open to collaboration and new opportunities
 
 ---
+
+## Java Projects
+
+**Online Store for Handicraft Goods** *(Java + Spring + MySQL)*  
+[https://github.com/ypmk/JavaSpringMVCMySQLShop](https://github.com/ypmk/JavaSpringMVCMySQLShop)  
+
+
+**Space Games** — Java Android application with mini-games  
+[https://github.com/ypmk/RetroGamesApp](https://github.com/ypmk/RetroGamesApp)  
+
+---
+
+## TypeScript Projects
+
+**Recipes App** — Application for storing recipes, meal planning, and shopping lists *(React + TypeScript + Axios + Node.js + PostgreSQL)*
+[https://github.com/ypmk/RecipeApp](https://github.com/ypmk/RecipeApp)
+
+**Ice Skating Shop** — Online store for figure skating goods *(React + Next.js + TypeScript + MongoDB)*  
+[https://github.com/ypmk/IceSkatingShop](https://github.com/ypmk/IceSkatingShop)  
+
+
+---
