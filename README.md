@@ -29,7 +29,7 @@ Backend Developer (Java, Spring) with full-stack experience
 
 ## TypeScript Projects
 
-**Recipes App** — Application for storing recipes, meal planning, and shopping lists *(React + TypeScript + Axios + Node.js + PostgreSQL)*
+**Recipes App** — Application for storing recipes, meal planning, and shopping lists *(React + TypeScript + Axios + Node.js + PostgreSQL)*  
 [https://github.com/ypmk/RecipeApp](https://github.com/ypmk/RecipeApp)
 
 **Ice Skating Shop** — Online store for figure skating goods *(React + Next.js + TypeScript + MongoDB)*  
