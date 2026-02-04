@@ -40,8 +40,8 @@ Backend Developer (Java, Spring) with full-stack experience
 
 ## Heartwarming Projects
 
-**Solar System** - Website about the Solar System (HTML, CSS) 
+**Solar System** - Website about the Solar System (HTML, CSS)  
 [https://github.com/ypmk/SolarSystemKursProject](https://github.com/ypmk/SolarSystemKursProject)  
 
-**2048 Game** - Console game (C++) 
+**2048 Game** - Console game (C++)  
 [https://github.com/ypmk/2048_Game_with_tests](https://github.com/ypmk/2048_Game_with_tests)
