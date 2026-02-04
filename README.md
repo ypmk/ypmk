@@ -46,5 +46,5 @@ Backend Developer (Java, Spring) with full-stack experience
 **2048 Game** - Console game (C++)  
 [https://github.com/ypmk/2048_Game_with_tests](https://github.com/ypmk/2048_Game_with_tests)
 
-**YourFeel** - Clothing store website (HTML, CSS, JS)
+**YourFeel** - Clothing store website (HTML, CSS, JS)  
 [https://github.com/Elisaveta-N/TRPP_FinalProject](https://github.com/Elisaveta-N/TRPP_FinalProject)
